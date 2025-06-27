@@ -1,0 +1,2 @@
+Step1:If you want to create a observer use this command (php artisan make:observer ObserverName --model=ModelName).
+Step2:You have register your observer in AppServiceProvider.php file which in Providers file.
